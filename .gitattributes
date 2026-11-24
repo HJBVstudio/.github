@@ -1,0 +1,2 @@
+*.py linguist-detectable=false
+profile/assets/** linguist-generated=true
